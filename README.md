@@ -1,1 +1,3 @@
-# 17-zadanie-Kolesov
+# 17-zadanie-Kolesov 
+
+Testirovsthik PO 2024
